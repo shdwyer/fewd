@@ -1,0 +1,25 @@
+body {
+	background: #FFE;
+	border: 3px solid black;
+	padding: 6px;
+}
+
+img{
+	border: 3px solid black;
+}
+h4 {
+	font-size: 16px;
+}
+
+h5 {
+	font-size: 16px;
+}
+
+h6 {
+	color: #887;
+	font-size: 16px;
+}
+
+a {
+	color: #900;
+}
