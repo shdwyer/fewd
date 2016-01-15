@@ -1,0 +1,48 @@
+.header {
+  height: 100px;
+  width: 100%;
+}
+
+.main {
+	width: 50%;
+	float: left;
+	font-size: 40px;
+	overflow: auto;
+	height: auto;
+}
+
+.aside {
+	width: 50%;
+	height: 200px;
+	float: left;
+	
+}
+
+.aside2 {
+	width: 50%;
+	height: 200px;
+	float: left;
+	
+
+}
+
+.footer {
+	height: 80px;
+	width: 100%;
+	float: left;
+
+}
+
+.pink { background: #ee3e64; }
+.blue { background: #44accf; }
+.green { background: #b7d84b; }
+.orange { background: #E2A741; }
+.purple {background: #520577;}
+
+.float{
+	float: left;
+}
+
+.float-right{
+	float: right;
+}

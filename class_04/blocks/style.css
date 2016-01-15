@@ -1,0 +1,9 @@
+.block {
+  width: 200px;
+  height: 200px;
+}
+
+.pink { background: #ee3e64; }
+.blue { background: #44accf; }
+.green { background: #b7d84b; }
+.orange { background: #E2A741; }
